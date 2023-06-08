@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/qwersteve07/test-nx/compare/common-v1.0.0...common-v1.1.0) (2023-06-08)
+
+
+### Features
+
+* **common:** remove console ([e744741](https://github.com/qwersteve07/test-nx/commit/e744741b4a9b460efbd5b3bcda0d8e8df78c08d0))
+
 ## 1.0.0 (2023-06-08)
 
 

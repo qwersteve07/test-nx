@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v1.1.0...nx-test-v1.2.0) (2023-06-08)
+
+
+### Features
+
+* add plates ([d045615](https://github.com/qwersteve07/test-nx/commit/d0456151c25e4127c7e6f5b3456ece8b1b493563))
+* **nx-test:** add console ([af48ab0](https://github.com/qwersteve07/test-nx/commit/af48ab040cf3002caca6ef7b3a2c325b327f627a))
+
 ## [1.1.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v1.0.0...nx-test-v1.1.0) (2023-06-08)
 
 
