@@ -1,6 +1,7 @@
 {
   "packages": {
     "apps/nx-test": {},
-    "libs/common": {}
+    "libs/common": {},
+    "libs/feature-yolo": {}
   }
 }
