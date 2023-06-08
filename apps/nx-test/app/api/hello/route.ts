@@ -1,4 +1,6 @@
-export async function GET(request: Request) {
+export const GET = async () => {
   return new Response('Hello, from API!');
 }
-console.log('Hello, from API!');
+
+console.log('refrac');
+
