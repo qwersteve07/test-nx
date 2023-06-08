@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/qwersteve07/test-nx/compare/source-v1.0.0...source-v1.1.0) (2023-06-08)
+
+
+### Features
+
+* update common ([5cd7645](https://github.com/qwersteve07/test-nx/commit/5cd7645836dd963dc104430c98f78cab3763e89b))
+
 ## 1.0.0 (2023-06-08)
 
 
