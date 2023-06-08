@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@org/common": ["libs/common/src/index.ts"]
+      "@org/common": ["libs/common/src/index.ts"],
+      "@org/feature-yolo": ["libs/feature-yolo/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
