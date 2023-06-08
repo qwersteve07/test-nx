@@ -11,3 +11,4 @@ jobs:
         with:
           release-type: node
           monorepo-tags: true
+          command: manifest
