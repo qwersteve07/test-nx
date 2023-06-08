@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v1.0.0...nx-test-v1.1.0) (2023-06-08)
+
+
+### Features
+
+* update api ([8ff67e6](https://github.com/qwersteve07/test-nx/commit/8ff67e6e5015573b3ce5718f0abdf1c7ab0cdfa1))
+
 ## 1.0.0 (2023-06-08)
 
 
