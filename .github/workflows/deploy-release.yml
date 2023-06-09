@@ -12,4 +12,4 @@ jobs:
           release-type: node
           monorepo-tags: true
           command: manifest
-      - run: echo ${{ steps.release.outputs }}
+      - run: echo ${{ steps.release.outputs.releases_created }}
