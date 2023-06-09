@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.0.1...nx-test-v2.1.0) (2023-06-09)
+
+
+### Features
+
+* this will add a pr ([e278a79](https://github.com/qwersteve07/test-nx/commit/e278a79ac44b94ba0dd38c03d43cef95d6a19e6f))
+* update console ([3c3c172](https://github.com/qwersteve07/test-nx/commit/3c3c172823244a61cfb585cd60b897a95cbb123b))
+
 ## [2.0.1](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.0.0...nx-test-v2.0.1) (2023-06-09)
 
 
