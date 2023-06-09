@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.0.0...nx-test-v2.0.1) (2023-06-09)
+
+
+### Bug Fixes
+
+* remove console ([deb281b](https://github.com/qwersteve07/test-nx/commit/deb281be5af3df5de434a54d1d48461f9be1d6d6))
+
 ## [2.0.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v1.2.0...nx-test-v2.0.0) (2023-06-09)
 
 
