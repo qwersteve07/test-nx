@@ -13,4 +13,6 @@ jobs:
           release-type: node
           monorepo-tags: true
           command: manifest
+          extra-files: |
+            test.md
       - run: echo ${{ steps.release.outputs.releases_created }}
