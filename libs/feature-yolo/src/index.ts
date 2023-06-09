@@ -1,3 +1,3 @@
 export * from './lib/feature-yolo';
 
-console.log('some normal content')
+console.log('some normal cont')
