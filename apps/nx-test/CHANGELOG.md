@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.5.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.4.0...nx-test-v2.5.0) (2023-06-09)
+
+
+### Features
+
+* modify versioning ([cbe7584](https://github.com/qwersteve07/test-nx/commit/cbe7584c6e52921064bfbd43609ec601a6073f95))
+* try this! ([e6fa3eb](https://github.com/qwersteve07/test-nx/commit/e6fa3eb3a3307696aed2430c5dac1955e504ca1f))
+* update ([72f97a2](https://github.com/qwersteve07/test-nx/commit/72f97a262aeb51dbd3cb140e9ce56ac3d2363c8a))
+
 ## [2.4.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.3.0...nx-test-v2.4.0) (2023-06-09)
 
 
