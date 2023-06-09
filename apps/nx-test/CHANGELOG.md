@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.2.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.1.0...nx-test-v2.2.0) (2023-06-09)
+
+
+### Features
+
+* adjust response text ([88b2b4d](https://github.com/qwersteve07/test-nx/commit/88b2b4d5953bc2116ad61b5390ae4930ad8fd8a9))
+* bla ([62d9c4c](https://github.com/qwersteve07/test-nx/commit/62d9c4c05177f78cc6a6f8e51d84f944f67b9a77))
+* remove console ([8a27ccb](https://github.com/qwersteve07/test-nx/commit/8a27ccb1cccd37ecf0fbcd1156dbded73898fba1))
+
 ## [2.1.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.0.1...nx-test-v2.1.0) (2023-06-09)
 
 
