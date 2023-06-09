@@ -13,6 +13,8 @@ jobs:
           release-type: node
           monorepo-tags: true
           command: manifest
+          version-file: |
+            version.rb
           extra-files: |
             test.py
       - run: echo ${{ steps.release.outputs.releases_created }}
