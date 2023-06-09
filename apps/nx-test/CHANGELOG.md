@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v1.2.0...nx-test-v2.0.0) (2023-06-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* fake breaking change
+
+### Features
+
+* fake breaking change ([802d230](https://github.com/qwersteve07/test-nx/commit/802d2309e4ae39e6f91e0818e17515c927fc3038))
+
 ## [1.2.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v1.1.0...nx-test-v1.2.0) (2023-06-08)
 
 
