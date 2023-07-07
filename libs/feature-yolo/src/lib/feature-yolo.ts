@@ -1,3 +1,3 @@
 export function featureYolo(): string {
-  return 'feature-yolo';
+  return 'feature-yolo-wwowowowow';
 }
