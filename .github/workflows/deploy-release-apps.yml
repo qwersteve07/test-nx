@@ -1,0 +1,19 @@
+name: Deploy to release branch
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'apps/**'
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        id: release
+        with:
+          release-type: node
+          monorepo-tags: true
+          command: manifest
+          versioning-strategy: always-bump-patch
+      - run: echo ${{ steps.release.outputs.releases_created }}

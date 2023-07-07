@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'libs/**'
 jobs:
   release-please:
     runs-on: ubuntu-latest
@@ -13,8 +15,5 @@ jobs:
           release-type: node
           monorepo-tags: true
           command: manifest
-          version-file: |
-            version.rb
-          extra-files: |
-            test.py
+          versioning-strategy: always-bump-patch
       - run: echo ${{ steps.release.outputs.releases_created }}
