@@ -15,6 +15,9 @@ body {
 h1,
 h2,
 p,
+pre {
+  margin: 0;
+}
 *,
 ::before,
 ::after {
