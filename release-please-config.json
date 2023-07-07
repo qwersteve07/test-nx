@@ -1,4 +1,6 @@
 {
+  "bootstrap-sha": "88fd33dbb1dcc310b3637f58b905b3b51c195214",
+  "release-type": "node",
   "packages": {
     "apps/nx-test": {
       "versioning": "always-bump-patch"
