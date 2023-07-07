@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/qwersteve07/test-nx/compare/feature-yolo-v1.2.0...feature-yolo-v2.0.0) (2023-07-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* add new content
+
+### Features
+
+* add new content ([18e8bb6](https://github.com/qwersteve07/test-nx/commit/18e8bb695937753f98abcf6fdacf4d3717d1819e))
+
 ## [1.2.0](https://github.com/qwersteve07/test-nx/compare/feature-yolo-v1.1.0...feature-yolo-v1.2.0) (2023-07-07)
 
 
