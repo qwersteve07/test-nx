@@ -12,7 +12,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}awefaewfawefaewf</body>
+      <body>{children}</body>
     </html>
   );
 }
