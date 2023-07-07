@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.1](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.5.0...nx-test-v2.5.1) (2023-07-07)
+
+
+### Bug Fixes
+
+* add console ([a42cc28](https://github.com/qwersteve07/test-nx/commit/a42cc28805ebf9eccc70d702750cba645b374b75))
+
 ## [2.5.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.4.0...nx-test-v2.5.0) (2023-06-09)
 
 
