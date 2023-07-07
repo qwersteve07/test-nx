@@ -1,1 +1,6 @@
-{"apps/nx-test":"2.6.2","libs/common":"1.1.0","libs/feature-yolo":"2.1.0",".":"1.0.0"}
+{
+  "apps/nx-test": "3.6.2",
+  "libs/common": "1.1.0",
+  "libs/feature-yolo": "2.1.0",
+  ".": "1.0.0"
+}
