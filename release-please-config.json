@@ -1,9 +1,8 @@
 {
   "packages": {
-    ".": {
+    "apps/nx-test": {
       "versioning": "always-bump-patch"
     },
-    "apps/nx-test": {},
     "libs/common": {},
     "libs/feature-yolo": {}
   }
