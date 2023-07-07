@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.6.2](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.6.1...nx-test-v2.6.2) (2023-07-07)
+
+
+### Features
+
+* adjust nx-test app ([f254fc0](https://github.com/qwersteve07/test-nx/commit/f254fc008112ae464089e29d595492e302eb484f))
+
+
+### Bug Fixes
+
+* adjust nx-test content ([26cdda5](https://github.com/qwersteve07/test-nx/commit/26cdda587256459f62173a5e8a0782cdb824c059))
+
 ## [2.6.1](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.6.0...nx-test-v2.6.1) (2023-07-07)
 
 

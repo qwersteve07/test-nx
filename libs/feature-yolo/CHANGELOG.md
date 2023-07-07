@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/qwersteve07/test-nx/compare/feature-yolo-v2.0.0...feature-yolo-v2.1.0) (2023-07-07)
+
+
+### Features
+
+* adjust yolo content ([1d51965](https://github.com/qwersteve07/test-nx/commit/1d519650b9361da17ddb66be6852ae2ff0daf89a))
+
+
+### Bug Fixes
+
+* adjust yolo content ([0325852](https://github.com/qwersteve07/test-nx/commit/03258524575980e1746254a0f6caf8b39a5a806d))
+
 ## [2.0.0](https://github.com/qwersteve07/test-nx/compare/feature-yolo-v1.2.0...feature-yolo-v2.0.0) (2023-07-07)
 
 
