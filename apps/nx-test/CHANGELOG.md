@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.6.1](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.6.0...nx-test-v2.6.1) (2023-07-07)
+
+
+### Features
+
+* adjust css file ([908ebe4](https://github.com/qwersteve07/test-nx/commit/908ebe42137de28a4eca2859f69b709911cafcd8))
+
 ## [2.6.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v2.5.1...nx-test-v2.6.0) (2023-07-07)
 
 
