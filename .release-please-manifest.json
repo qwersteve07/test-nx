@@ -1,5 +1,5 @@
 {
-  "apps/nx-test": "3.6.2",
+  "apps/nx-test": "3.6.3",
   "libs/common": "1.1.0",
   "libs/feature-yolo": "2.1.0",
   ".": "1.0.0"
