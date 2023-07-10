@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.0](https://github.com/qwersteve07/test-nx/compare/nx-test-v3.6.4...nx-test-v4.2.0) (2023-07-10)
+
+
+### Miscellaneous Chores
+
+* release 4.2.0 ([71da117](https://github.com/qwersteve07/test-nx/commit/71da117986716c4a5422a49b35b2de445b3a6276))
+
 ## [3.6.4](https://github.com/qwersteve07/test-nx/compare/nx-test-v3.6.3...nx-test-v3.6.4) (2023-07-10)
 
 
