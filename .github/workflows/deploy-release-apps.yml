@@ -15,5 +15,4 @@ jobs:
           release-type: node
           monorepo-tags: true
           command: manifest
-          versioning-strategy: always-bump-patch
       - run: echo ${{ steps.release.outputs.releases_created }}
