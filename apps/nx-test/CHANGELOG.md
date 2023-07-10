@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.6.4](https://github.com/qwersteve07/test-nx/compare/nx-test-v3.6.3...nx-test-v3.6.4) (2023-07-10)
+
+
+### Features
+
+* update route ([26d52b4](https://github.com/qwersteve07/test-nx/commit/26d52b467fc92b60ff49ce1023e4f41648871186))
+
 ## [3.6.3](https://github.com/qwersteve07/test-nx/compare/nx-test-v3.6.2...nx-test-v3.6.3) (2023-07-10)
 
 
